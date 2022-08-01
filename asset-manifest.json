@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zeshan/static/css/main.b37ba38c.css",
+    "main.js": "/Zeshan/static/js/main.fc52fcf1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Zeshan/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Zeshan/index.html",
+    "main.b37ba38c.css.map": "/Zeshan/static/css/main.b37ba38c.css.map",
+    "main.fc52fcf1.js.map": "/Zeshan/static/js/main.fc52fcf1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Zeshan/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37ba38c.css",
+    "static/js/main.fc52fcf1.js"
+  ]
+}
